@@ -1,0 +1,52 @@
+{
+  "themes": [
+    {
+      "name": "ArcticPlatinum",
+      "accent": "FF2B6CB0"
+    },
+    {
+      "name": "CrimsonX",
+      "accent": "FFE33E4F"
+    },
+    {
+      "name": "Cyberpunk",
+      "accent": "FFFCEE0A"
+    },
+    {
+      "name": "ElectricFusion",
+      "accent": "FF2DD4FF"
+    },
+    {
+      "name": "EmeraldElite",
+      "accent": "FF2FD68A"
+    },
+    {
+      "name": "MidnightGold",
+      "accent": "FFD4AF37"
+    },
+    {
+      "name": "OceanDepth",
+      "accent": "FF2EC5B6"
+    },
+    {
+      "name": "RoseTitanium",
+      "accent": "FFE8A0B4"
+    },
+    {
+      "name": "RoyalAmethyst",
+      "accent": "FFA06BFF"
+    },
+    {
+      "name": "SunsetX",
+      "accent": "FFFF7A45"
+    },
+    {
+      "name": "TitaniumBlack",
+      "accent": "FFC0C6D4"
+    },
+    {
+      "name": "ToxicX",
+      "accent": "FFA6FF00"
+    }
+  ]
+}

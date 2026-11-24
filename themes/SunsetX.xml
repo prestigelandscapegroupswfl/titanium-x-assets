@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+  <color name="accent">FFFF7A45</color>
+  <color name="accent2">FFFF3C8A</color>
+  <color name="text">FFFFFFFF</color>
+  <color name="muted">FFD9BBA8</color>
+  <color name="background">FF07070D</color>
+  <color name="white">FFFFFFFF</color>
+  <color name="black">FF000000</color>
+</colors>
